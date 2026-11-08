@@ -37,24 +37,4 @@ ShopVerse is a polished, responsive marketplace storefront designed to make brow
 - Switch between light and dark themes, with preferences remembered between visits.
 - Navigate with accessible controls across desktop and mobile layouts.
 
-## Built with
 
-React, Vite, React Router, and Lucide icons.
-
-## Run locally
-
-```bash
-npm install
-npm run dev
-```
-
-Create and preview a production build:
-
-```bash
-npm run build
-npm run preview
-```
-
-## Demo scope
-
-This repository contains the storefront frontend and sample product data. Sign-in, seller tools, inventory, order storage, and checkout are demonstrations only; real authentication, payments, and order fulfillment require backend services.
