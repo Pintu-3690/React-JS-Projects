@@ -1,0 +1,1 @@
+export { fetchProducts, getProductBySlug, products, categories } from './products';
